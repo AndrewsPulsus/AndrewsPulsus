@@ -26,9 +26,3 @@
   <img height="45em" src="https://api.iconify.design/simple-icons/fastapi.svg"/>
 </div>
 
-## 
-<!--  
-<div align="center">
-  <a href="https://www.linkedin.com/in/andrews-s-fernandes-441082139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
--->
