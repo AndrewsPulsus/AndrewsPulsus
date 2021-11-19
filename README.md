@@ -9,7 +9,6 @@
 
 - ⛏️ Desenvolvedor Back-End.
 - 📚 Desenvolvedor Python em construção.
-- ⚡ Fun fact: A única coisa que ganhamos sem esforço é PESO.
 ##
 
 <div align="center">
