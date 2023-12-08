@@ -10,12 +10,6 @@
 - ⛏️ Desenvolvedor Back-End.
 - 📚 Desenvolvedor Python em construção.
 ##
-
-<div align="center">
-  <a href="https://github.com/AndrewsPulsus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewsPulsus&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-</div>
-
   
 <div align="center">
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
