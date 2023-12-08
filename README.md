@@ -1,16 +1,4 @@
-## Hello Stranger !!! 👋
-
-<div align="center">
-  
-  ![Alt Text](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy-downsized.gif)
-</div>
-
-##
-
-- ⛏️ Desenvolvedor Back-End.
-- 📚 Desenvolvedor Python em construção.
-##
-  
+ 
 <div align="center">
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
